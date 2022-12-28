@@ -1,0 +1,4 @@
+INSERT INTO signers(nama_lengkap, jabatan) values
+('Muhammad Oky', 'Direktur Umum & Keuangan'),
+('Ali Mulyagusdin', 'Direktur Utama'),
+('Edwar Salim', 'Direktur Pengembangan Usaha');
